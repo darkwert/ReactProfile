@@ -68,7 +68,7 @@ export const Navbar = () => {
                 </nav>
             </div>
             
-            <div className='absolute left-[50%] top-2 translate-x-[-50%]' >
+            <div className='absolute left-[50%] top-2 lg:top-1 translate-x-[-50%]' >
                 <Logo/>
             </div>
 
