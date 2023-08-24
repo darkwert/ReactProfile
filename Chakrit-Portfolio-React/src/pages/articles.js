@@ -1,6 +1,6 @@
 import React from "react";
 import Head from 'next/head'
-import Layout from "@/components/Laytouts";
+import Layout from "@/components/Layouts";
 import AnimatedText from "@/components/AnimatedText";
 import Link from "next/link";
 import Image from 'next/image'

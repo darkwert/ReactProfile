@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Layout from '../components/Laytouts'
+import Layout from '@/components/Layouts'
 import Image from 'next/image'
 import Q_display from '../../public/images/profile/Q_display.jpg'
 import AnimatedText from '@/components/AnimatedText'

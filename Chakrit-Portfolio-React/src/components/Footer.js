@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "./Laytouts";
+import Layout from "./Layouts";
 import Link from 'next/link'
 const Footer = ()=>{
     return(

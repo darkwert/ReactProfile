@@ -1,7 +1,7 @@
 import React, { useEffect,useRef } from 'react'
 import Head from 'next/head'
 import AnimatedText from '@/components/AnimatedText'
-import Layout from '@/components/Laytouts'
+import Layout from '@/components/Layouts'
 import Q_display from '../../public/images/profile/Q_display.jpg'
 import Image from 'next/image'
 import { useInView, useMotionValue, useSpring } from 'framer-motion'
